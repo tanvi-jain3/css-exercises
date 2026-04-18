@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd{
+    background-color: #FCAEB8;
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
+
+#second{
+    color: #262CFF;
+    font-size: 36px;
+}
+
+#third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: #73FF83;
+    font-weight: bold;
+    font-size: 24px;
+}
